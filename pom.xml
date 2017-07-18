@@ -6,9 +6,11 @@
     <version>1.0</version>
     <packaging>war</packaging>
     <name>gameoflife</name>
+<distributionManagement>	
     <repository>
         <id>releases</id>
         <name>Releases</name>
         <url>http://10.119.17.222:8080/nexus-2.14.4-03/content/repositories/releases/</url>
     </repository>
+	</distributionManagement>
 </project>
